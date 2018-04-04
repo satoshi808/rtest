@@ -2,4 +2,4 @@
 This is a line from Rstudio
 Testing again
 
-library("ggplot2")
+require(useful)
